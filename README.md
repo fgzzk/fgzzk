@@ -2,7 +2,7 @@
 
 meu nome Felipe Gotardelo
 
- - Estou estudando na Alura;
+ - Estou estudando na [Alura] (https://cursos.alura.com.br/dashboard)
  - EStou me desenvolvendo na linguagem JavasScript
  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
